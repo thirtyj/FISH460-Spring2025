@@ -1,3 +1,3 @@
 # Data
 
-Host all of your data in this directory. This could include excel or .csv files as well as photos of your experiment.
+All data for this research project is included here. All are in excel format. "Data" file includes figures.
