@@ -1,3 +1,5 @@
 # Project Synopsis
 
 Write an overview of your project here. Should include quick background about the applied relevance of your work, hypotheses, objectives, experimental design, and a summary of your findings. *No more than 500 words.*
+
+Pharmaceutical contamination has become an increasing concern as the overall drug use around the world increases through prescription and over-the-counter medications. It has recently been classified as an emerging global contaminant. The increase in drug contamination mixed with the increase in global temperature produces a further concern as drug toxicity is known to change the toxicity levels of drugs. Overall, this posses a danger to aquatic orgnaisms exposed to these contaminants. Invertebrates are considered a early warning signal in many aquatic environments and have been evaluated to understand possible ecosystem responses to other stressors. Here we evaluated Hemigrapsus oregonensis and its physiological responses to increasing temperature (13° and 27° C), increasing NSAID contamination through Ibuprofen (0 ug/L, 12.25 ug/L, and 31.25 ug/L), and the combination of the two.
